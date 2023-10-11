@@ -3,3 +3,4 @@ questo file è gestito da più persone
 senza bisgono di coordinarsi con gli altri - Pedro 
 il controllo di versione gestisce gli eventuali conflitti
 Riccardo Zottoli - prova conflitto doppio per Wassim e Pedro
+
