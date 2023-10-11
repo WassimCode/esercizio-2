@@ -2,4 +2,4 @@ modificato da noi tutti - Riccardo
 questo file è gestito da più persone
 senza bisgono di coordinarsi con gli altri - Pedro 
 il controllo di versione gestisce gli eventuali conflitti
-Riccardo Zottoli
+Riccardo Zottoli scrivo della roba conflittante
