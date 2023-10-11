@@ -1,2 +1,2 @@
-# esercizio-2
+# esercizioDiGruppo
 First repo created in group
